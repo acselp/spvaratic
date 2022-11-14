@@ -19,5 +19,4 @@ public class Counter {
     @Column(nullable = false,
             columnDefinition="TIMESTAMP default CURRENT_TIMESTAMP")
     private java.sql.Timestamp addedOn;
-
 }
