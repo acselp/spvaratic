@@ -20,4 +20,5 @@ public class Counter {
             columnDefinition="TIMESTAMP default CURRENT_TIMESTAMP")
     private java.sql.Timestamp addedOn;
 
+
 }
